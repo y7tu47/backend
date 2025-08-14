@@ -1,0 +1,10 @@
+id,name,price
+1,Audi,20
+2,mercedes,100
+3,toyota corola,40
+4,ford,10
+5,mustang,50
+6,fiat,60
+7,mercedes,70
+8,audi,40
+9,aaa,100

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|c:\\users\\uucaex116\\documents\\backend\\carrentalwinforms-master\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A5AA61-D5E2-133F-C6F5-C1FAED315F32}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:32:33.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\BookingForm.cs",
+              "RelativeDocumentMoniker": "BookingForm.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\BookingForm.cs",
+              "RelativeToolTip": "BookingForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:16:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Booking.cs",
+              "RelativeToolTip": "Booking.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:15:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAWwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:14:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:14:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Crud.cs",
+              "RelativeDocumentMoniker": "Crud.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Crud.cs",
+              "RelativeToolTip": "Crud.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:59:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:52:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ai.cs",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Ai.cs",
+              "RelativeDocumentMoniker": "Ai.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Ai.cs",
+              "RelativeToolTip": "Ai.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:56:21.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Ai.cs",
+              "RelativeDocumentMoniker": "Ai.cs",
+              "ToolTip": "C:\\Users\\uucaex116\\Documents\\Backend\\CarRentalWinForms-master\\Ai.cs [Design]",
+              "RelativeToolTip": "Ai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:56:17.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
